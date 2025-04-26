@@ -15,23 +15,10 @@ return {
               height = 'auto',
             },
           },
-          popupmenu = {
-            relative = 'editor',
+          cmdline_popupmenu = {
             position = {
-              row = 23,
+              row = '67%',
               col = '50%',
-            },
-            size = {
-              width = 60,
-              height = 'auto',
-              max_height = 15,
-            },
-            border = {
-              style = 'rounded',
-              padding = { 0, 1 },
-            },
-            win_options = {
-              winhighlight = { Normal = 'Normal', FloatBorder = 'NoiceCmdlinePopupBorder' },
             },
           },
         },
