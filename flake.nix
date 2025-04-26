@@ -139,7 +139,7 @@
           #     lua
           #   ]
           # ))
-
+          dracula-nvim
           # sometimes you have to fix some names
           { plugin = catppuccin-nvim; name = "catppuccin"; }
           { plugin = mini-ai; name = "mini.ai"; }
